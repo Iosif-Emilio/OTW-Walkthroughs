@@ -12,14 +12,19 @@
 - [:triangular_flag_on_post: Bandit Level 00 - 01](#triangular_flag_on_post-bandit-level-00---01)
 - [:triangular_flag_on_post: Bandit Level 01 - 02](#triangular_flag_on_post-bandit-level-01---02)
 - [:triangular_flag_on_post: Bandit Level 02 - 03](#triangular_flag_on_post-bandit-level-02---03)
-- [:triangular_flag_on_post: Bandit Level 03 - 04](#triangular_flag_on_post-bandit-level-02---03)
-- [:triangular_flag_on_post: Bandit Level 04 - 05](#triangular_flag_on_post-bandit-level-02---03)
-- [:triangular_flag_on_post: Bandit Level 05 - 06](#triangular_flag_on_post-bandit-level-02---03)
-- [:triangular_flag_on_post: Bandit Level 06 - 07](#triangular_flag_on_post-bandit-level-02---03)
-- [:triangular_flag_on_post: Bandit Level 07 - 08](#triangular_flag_on_post-bandit-level-02---03)
-- [:triangular_flag_on_post: Bandit Level 08 - 09](#triangular_flag_on_post-bandit-level-02---03)
-- [:triangular_flag_on_post: Bandit Level 09 - 10](#triangular_flag_on_post-bandit-level-02---03)
-
+- [:triangular_flag_on_post: Bandit Level 03 - 04](#triangular_flag_on_post-bandit-level-03---04)
+- [:triangular_flag_on_post: Bandit Level 04 - 05](#triangular_flag_on_post-bandit-level-04---05)
+- [:triangular_flag_on_post: Bandit Level 05 - 06](#triangular_flag_on_post-bandit-level-05---06)
+- [:triangular_flag_on_post: Bandit Level 06 - 07](#triangular_flag_on_post-bandit-level-06---07)
+- [:triangular_flag_on_post: Bandit Level 07 - 08](#triangular_flag_on_post-bandit-level-07---08)
+- [:triangular_flag_on_post: Bandit Level 08 - 09](#triangular_flag_on_post-bandit-level-08---09)
+- [:triangular_flag_on_post: Bandit Level 09 - 10](#triangular_flag_on_post-bandit-level-09---10)
+- [:triangular_flag_on_post: Bandit Level 10 - 11](#triangular_flag_on_post-bandit-level-10---11)
+- [:triangular_flag_on_post: Bandit Level 11 - 12](#triangular_flag_on_post-bandit-level-11---12)
+- [:triangular_flag_on_post: Bandit Level 12 - 13](#triangular_flag_on_post-bandit-level-12---13)
+- [:triangular_flag_on_post: Bandit Level 13 - 14](#triangular_flag_on_post-bandit-level-13---14)
+- [:triangular_flag_on_post: Bandit Level 14 - 15](#triangular_flag_on_post-bandit-level-14---15)
+- [:triangular_flag_on_post: Bandit Level 15 - 16](#triangular_flag_on_post-bandit-level-15---16)
 <br>
 <br>
 
@@ -102,3 +107,45 @@
 
 <br>
 <br>
+
+## :triangular_flag_on_post: Bandit Level 11 - 12
+### ssh bandit11@bandit.labs.overthewire.org -p 2220
+![](Bandit%20Commands/Level%2011.jpeg)
+
+<br>
+<br>
+
+## :triangular_flag_on_post: Bandit Level 12 - 13
+### ssh bandit12@bandit.labs.overthewire.org -p 2220
+![](Bandit%20Commands/Level%2012.jpeg)
+![](Bandit%20Commands/Level%2012pt2.jpeg)
+![](Bandit%20Commands/Level%2012pt3.jpeg)
+![](Bandit%20Commands/Level%2012pt4.jpeg)
+
+<br>
+<br>
+
+## :triangular_flag_on_post: Bandit Level 13 - 14
+### ssh bandit13@bandit.labs.overthewire.org -p 2220
+![](Bandit%20Commands/Level%2013.jpeg)
+![](Bandit%20Commands/Level%2013pt2.jpeg)
+
+<br>
+<br>
+
+## :triangular_flag_on_post: Bandit Level 14 - 15
+### ssh -i sshkey.private bandit14@bandit.labs.overthewire.org -p 2220
+![](Bandit%20Commands/Level%2014.jpeg)
+
+<br>
+<br>
+
+## :triangular_flag_on_post: Bandit Level 15 - 16
+### ssh bandit15@bandit.labs.overthewire.org -p 2220
+![](Bandit%20Commands/Level%2015.jpeg)
+![](Bandit%20Commands/Level%2015pt2.jpeg)
+
+<br>
+<br>
+
+
