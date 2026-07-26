@@ -186,7 +186,7 @@
 
 
 ## :triangular_flag_on_post: Bandit Level 20 - 21
-### ssh bandit18@bandit.labs.overthewire.org -p 2220
+### ssh bandit20@bandit.labs.overthewire.org -p 2220
 (Do that first on a new tab, at the same time that you have both of them)
 ![](Bandit%20Commands/Level%2020pt2.jpeg)
 ![](Bandit%20Commands/Level%2020.jpeg)
