@@ -25,6 +25,12 @@
 - [:triangular_flag_on_post: Bandit Level 13 - 14](#triangular_flag_on_post-bandit-level-13---14)
 - [:triangular_flag_on_post: Bandit Level 14 - 15](#triangular_flag_on_post-bandit-level-14---15)
 - [:triangular_flag_on_post: Bandit Level 15 - 16](#triangular_flag_on_post-bandit-level-15---16)
+- [:triangular_flag_on_post: Bandit Level 16 - 17](#triangular_flag_on_post-bandit-level-16---17)
+- [:triangular_flag_on_post: Bandit Level 17 - 18](#triangular_flag_on_post-bandit-level-17---18)
+- [:triangular_flag_on_post: Bandit Level 18 - 19](#triangular_flag_on_post-bandit-level-18---19)
+- [:triangular_flag_on_post: Bandit Level 19 - 20](#triangular_flag_on_post-bandit-level-19---20)
+- [:triangular_flag_on_post: Bandit Level 20 - 21](#triangular_flag_on_post-bandit-level-20---21)
+
 <br>
 <br>
 
@@ -148,4 +154,43 @@
 <br>
 <br>
 
+## :triangular_flag_on_post: Bandit Level 16 - 17
+### ssh bandit16@bandit.labs.overthewire.org -p 2220
+![](Bandit%20Commands/Level%2016.jpeg)
+![](Bandit%20Commands/Level%2016pt2.jpeg)
 
+<br>
+<br>
+
+## :triangular_flag_on_post: Bandit Level 17 - 18
+### ssh -i "nameofthekey" bandit17@bandit.labs.overthewire.org -p 2220
+![](Bandit%20Commands/Level%2017.jpeg)
+
+<br>
+<br>
+
+## :triangular_flag_on_post: Bandit Level 18 - 19
+### ssh bandit18@bandit.labs.overthewire.org -p 2220
+![](Bandit%20Commands/Level%2018.jpeg)
+
+<br>
+<br>
+
+
+## :triangular_flag_on_post: Bandit Level 19 - 20
+### ssh bandit19@bandit.labs.overthewire.org -p 2220
+![](Bandit%20Commands/Level%2019.jpeg)
+
+<br>
+<br>
+
+
+## :triangular_flag_on_post: Bandit Level 20 - 21
+### ssh bandit18@bandit.labs.overthewire.org -p 2220
+(Do that first on a new tab, at the same time that you have both of them)
+![](Bandit%20Commands/Level%2020pt2.jpeg)
+![](Bandit%20Commands/Level%2020.jpeg)
+
+
+<br>
+<br>
