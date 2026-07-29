@@ -35,8 +35,11 @@
 - [:triangular_flag_on_post: Bandit Level 22 - 23](#triangular_flag_on_post-bandit-level-22---23)
 - [:triangular_flag_on_post: Bandit Level 23 - 24](#triangular_flag_on_post-bandit-level-23---24)
 - [:triangular_flag_on_post: Bandit Level 24 - 25](#triangular_flag_on_post-bandit-level-24---25)
-- [:triangular_flag_on_post: Bandit Level 25 - 26](#triangular_flag_on_post-bandit-level-25---26)
-
+- [:triangular_flag_on_post: Bandit Level 25 - 26 -27](#triangular_flag_on_post-bandit-level-25---26---27)
+- [:triangular_flag_on_post: Bandit Level 27 - 28](#triangular_flag_on_post-bandit-level-20---21)
+- [:triangular_flag_on_post: Bandit Level 28 - 29](#triangular_flag_on_post-bandit-level-21---22)
+- [:triangular_flag_on_post: Bandit Level 29 - 30](#triangular_flag_on_post-bandit-level-22---23)
+- [:triangular_flag_on_post: Bandit Level 30 - 31](#triangular_flag_on_post-bandit-level-23---24)
 
   
 <br>
@@ -239,7 +242,7 @@
 <br>
 <br>
 
-## :triangular_flag_on_post: Bandit Level 25 - 26
+## :triangular_flag_on_post: Bandit Level 25 - 26 - 27
 ### ssh bandit25@bandit.labs.overthewire.org -p 2220
 ![](Bandit%20Commands/Level%2025.jpeg)
 
@@ -248,6 +251,37 @@ Now, try to write ":set shell=/bin/bash. And you probably and must will be able 
 
 ![](Bandit%20Commands/Level%2025pt2.jpeg)
 ![](Bandit%20Commands/Level%2025pt3.jpeg)
+
+<br>
+<br>
+
+## :triangular_flag_on_post: Bandit Level 27 - 28
+### git clone ssh://bandit27-git@bandit.labs.overthewire.org:2220/home/bandit27-git/repo
+![](Bandit%20Commands/Level%2027.jpeg)
+
+<br>
+<br>
+
+## :triangular_flag_on_post: Bandit Level 28 - 29
+### git clone ssh://bandit28-git@bandit.labs.overthewire.org:2220/home/bandit28-git/repo
+![](Bandit%20Commands/Level%2028.jpeg)
+![](Bandit%20Commands/Level%2028pt2(1).jpeg)
+![](Bandit%20Commands/Level%2028pt3.jpeg)
+
+<br>
+<br>
+
+## :triangular_flag_on_post: Bandit Level 29 - 30
+### git clone ssh://bandit29-git@bandit.labs.overthewire.org:2220/home/bandit29-git/repo
+![](Bandit%20Commands/Level%2029.jpeg)
+![](Bandit%20Commands/Level%2029pt2.jpeg)
+
+<br>
+<br>
+
+## :triangular_flag_on_post: Bandit Level 30 - 31
+### git clone ssh://bandit30-git@bandit.labs.overthewire.org:2220/home/bandit30-git/repo
+![](Bandit%20Commands/Level%2030.jpeg)
 
 <br>
 <br>
