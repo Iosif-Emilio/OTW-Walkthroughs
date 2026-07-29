@@ -35,11 +35,15 @@
 - [:triangular_flag_on_post: Bandit Level 22 - 23](#triangular_flag_on_post-bandit-level-22---23)
 - [:triangular_flag_on_post: Bandit Level 23 - 24](#triangular_flag_on_post-bandit-level-23---24)
 - [:triangular_flag_on_post: Bandit Level 24 - 25](#triangular_flag_on_post-bandit-level-24---25)
-- [:triangular_flag_on_post: Bandit Level 25 - 26 -27](#triangular_flag_on_post-bandit-level-25---26---27)
-- [:triangular_flag_on_post: Bandit Level 27 - 28](#triangular_flag_on_post-bandit-level-20---21)
-- [:triangular_flag_on_post: Bandit Level 28 - 29](#triangular_flag_on_post-bandit-level-21---22)
-- [:triangular_flag_on_post: Bandit Level 29 - 30](#triangular_flag_on_post-bandit-level-22---23)
-- [:triangular_flag_on_post: Bandit Level 30 - 31](#triangular_flag_on_post-bandit-level-23---24)
+- [:triangular_flag_on_post: Bandit Level 25 - 26 - 27](#triangular_flag_on_post-bandit-level-25---26---27)
+- [:triangular_flag_on_post: Bandit Level 27 - 28](#triangular_flag_on_post-bandit-level-27---28)
+- [:triangular_flag_on_post: Bandit Level 28 - 29](#triangular_flag_on_post-bandit-level-28---29)
+- [:triangular_flag_on_post: Bandit Level 29 - 30](#triangular_flag_on_post-bandit-level-29---30)
+- [:triangular_flag_on_post: Bandit Level 30 - 31](#triangular_flag_on_post-bandit-level-30---31)
+- [:triangular_flag_on_post: Bandit Level 31 - 32](#triangular_flag_on_post-bandit-level-31---32)
+- [:triangular_flag_on_post: Bandit Level 32 - 33](#triangular_flag_on_post-bandit-level-32---33)
+- [:triangular_flag_on_post: Bandit Level 33 - 34](#triangular_flag_on_post-bandit-level-33---34)
+
 
   
 <br>
@@ -282,6 +286,31 @@ Now, try to write ":set shell=/bin/bash. And you probably and must will be able 
 ## :triangular_flag_on_post: Bandit Level 30 - 31
 ### git clone ssh://bandit30-git@bandit.labs.overthewire.org:2220/home/bandit30-git/repo
 ![](Bandit%20Commands/Level%2030.jpeg)
+
+<br>
+<br>
+
+## :triangular_flag_on_post: Bandit Level 31 - 32
+### git clone ssh://bandit31-git@bandit.labs.overthewire.org:2220/home/bandit31-git/repo
+![](Bandit%20Commands/Level%2031.jpeg)
+![](Bandit%20Commands/Level%2031pt2.jpeg)
+![](Bandit%20Commands/Level%2031pt3.jpeg)
+
+<br>
+<br>
+
+
+## :triangular_flag_on_post: Bandit Level 32 - 33
+### ssh bandit32@bandit.labs.overthewire.org -p 2220
+![](Bandit%20Commands/Level%2032.jpeg)
+![](Bandit%20Commands/Level%2032pt2.jpeg)
+
+<br>
+<br>
+
+## :triangular_flag_on_post: Bandit Level 33 - 34
+### ssh bandit33@bandit.labs.overthewire.org -p 2220
+![](Bandit%20Commands/Level%2033.jpeg)
 
 <br>
 <br>
